@@ -39,7 +39,7 @@
     "dotenv": "^16.3.1",
     "express": "^4.18.2",    
     "ffmpeg": "^0.0.4",
-    "nayan-media-downloader": "2.4.8",
+    "nayan-media-downloader": "^2.6.3",
     "wikipedia": "^2.1.1",
     "file-type": "16.5.3",
     "fluent-ffmpeg": "^2.1.2",
